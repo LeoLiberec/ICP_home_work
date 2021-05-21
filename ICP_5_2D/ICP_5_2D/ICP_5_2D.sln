@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICP_5_2D", "ICP_5_2D.csproj", "{08EB70AA-3D08-4681-8AC2-F20ACB48FF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EB70AA-3D08-4681-8AC2-F20ACB48FF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EB70AA-3D08-4681-8AC2-F20ACB48FF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EB70AA-3D08-4681-8AC2-F20ACB48FF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EB70AA-3D08-4681-8AC2-F20ACB48FF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10DA6F4-3500-4809-8C76-193A22D20014}
+	EndGlobalSection
+EndGlobal

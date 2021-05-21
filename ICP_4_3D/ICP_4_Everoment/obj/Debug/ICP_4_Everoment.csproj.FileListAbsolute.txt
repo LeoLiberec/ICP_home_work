@@ -1,0 +1,14 @@
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\obj\Debug\ICP_4_Everoment.csprojAssemblyReference.cache
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\ICP_4_Everoment.exe.config
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\ICP_4_Everoment.exe
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\ICP_4_Everoment.pdb
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\OpenTK.dll
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\sfml-audio.dll
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\sfml-graphics.dll
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\sfml-system.dll
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\sfml-window.dll
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\OpenTK.pdb
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\bin\Debug\OpenTK.xml
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\obj\Debug\ICP_4_Everoment.csproj.CopyComplete
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\obj\Debug\ICP_4_Everoment.exe
+D:\ICP\ICP_CV\ICP_4_3D\ICP_4_Everoment\obj\Debug\ICP_4_Everoment.pdb

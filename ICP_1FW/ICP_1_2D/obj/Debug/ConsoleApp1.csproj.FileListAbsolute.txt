@@ -1,0 +1,14 @@
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\OpenTK.dll
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\sfml-audio.dll
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\sfml-graphics.dll
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\sfml-system.dll
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\sfml-window.dll
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\OpenTK.pdb
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\bin\Debug\OpenTK.xml
+D:\ICP\ICP_CV\ICP_1FW\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

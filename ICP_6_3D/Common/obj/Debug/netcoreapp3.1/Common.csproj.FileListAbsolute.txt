@@ -1,0 +1,8 @@
+D:\ICP\ICP_CV\ICP_6_3D\Common\bin\Debug\netcoreapp3.1\ICP_6_3D.Common.deps.json
+D:\ICP\ICP_CV\ICP_6_3D\Common\bin\Debug\netcoreapp3.1\ICP_6_3D.Common.dll
+D:\ICP\ICP_CV\ICP_6_3D\Common\bin\Debug\netcoreapp3.1\ICP_6_3D.Common.pdb
+D:\ICP\ICP_CV\ICP_6_3D\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+D:\ICP\ICP_CV\ICP_6_3D\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\ICP\ICP_CV\ICP_6_3D\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\ICP\ICP_CV\ICP_6_3D\Common\obj\Debug\netcoreapp3.1\ICP_6_3D.Common.dll
+D:\ICP\ICP_CV\ICP_6_3D\Common\obj\Debug\netcoreapp3.1\ICP_6_3D.Common.pdb
